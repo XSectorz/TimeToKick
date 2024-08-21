@@ -1,0 +1,8 @@
+
+actionbarMessage: "<white>คุณมีเวลาอีก <color:#1BCB00>%time_left% <white>วินาที กรุณาย้ายเซิฟเวอร์"
+kickedMessage:
+  - "<red>TimeToKick"
+  - ""
+  - "<yellow>คุณเข้าเซิฟเวอร์ไม่ทันภายในเวลากำหนด"
+reloaded: "<color:#1BCB00>ทำการรีโหลดระบบแล้ว"
+permission: "<red>คุณไม่มีสิทธิใช้งานคำสั่ง"
